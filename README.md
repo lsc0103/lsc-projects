@@ -2,6 +2,18 @@
 
 This repository contains a starter project for a sci-fi third-person shooter built with **Unity 2022.3.60f1**. It features a simple anime-style character, a floating platform map, shooting mechanics and a basic enemy AI.
 
+## Repository Structure
+
+```
+lsc-projects/
+├── Assets/
+├── Packages/
+├── ProjectSettings/
+├── README.md
+└── .gitignore
+```
+
+
 ## Getting Started
 
 1. Install **Unity 2022.3.60f1** (or a later LTS release).
